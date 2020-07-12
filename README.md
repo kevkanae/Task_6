@@ -1,4 +1,4 @@
-#Detection Of Cars Using Mask-RCNN and Supervisely
+# Detection Of Cars Using Mask-RCNN and Supervisely
 
 Mask RCNN is a deep neural network aimed to solve instance segmentation problem in machine learning or computer vision. In other words, it can separate different objects in a image or a video. You give it a image, it gives you the object bounding boxes, classes and masks
 
