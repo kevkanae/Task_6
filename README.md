@@ -4,7 +4,7 @@ Mask RCNN is a deep neural network aimed to solve instance segmentation problem 
 
 We all know how _*'Efficient and Intriguing'*_ Mask RCNN is. We've all seen people getting tickets for over speeding along with their photos being clicked. We know how the radar speed gun efficiently does its job. Here we use Mask RCNN to detect cars on the highway.
 
-I know it sounds bland and boring, but here we use Supervisely, a tool that automatically annotates your dataset for you i.e. implements instance segmentation aka. mask
+I know it sounds bland and boring, but here we use [Supervisely](https://supervise.ly/), a tool that automatically annotates your dataset for you i.e. implements instance segmentation aka. mask
 
 What Supervisely does is, It uses its own AI to augment and mask your dataset and uses pre-trained ML models at its disposal.
 
